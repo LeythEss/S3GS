@@ -2863,7 +2863,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2884,7 +2884,7 @@ TextureImporter:
         width: 17
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2905,7 +2905,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2926,7 +2926,7 @@ TextureImporter:
         width: 31
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2947,7 +2947,7 @@ TextureImporter:
         width: 17
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2968,7 +2968,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2989,7 +2989,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3010,7 +3010,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3031,7 +3031,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3052,7 +3052,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3073,7 +3073,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3094,7 +3094,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3115,7 +3115,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3136,7 +3136,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3157,7 +3157,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3178,7 +3178,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3199,7 +3199,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3220,7 +3220,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3228,6 +3228,27 @@ TextureImporter:
       bones: []
       spriteID: 07125a3e568347d4ca1853eb1c4f9b8b
       internalID: 89619864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-tech-gold-blue-alpha_149
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 256
+        width: 48
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8afa2a36c453741aad085cac5c7816
+      internalID: -1519506135
       vertices: []
       indices: 
       edges: []
@@ -3243,17 +3264,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      tiles-tech-gold-blue-alpha_146: 1299995125
+      tiles-tech-gold-blue-alpha_132: 443542749
       tiles-tech-gold-blue-alpha_99: 41106948
       tiles-tech-gold-blue-alpha_18: 242558018
       tiles-tech-gold-blue-alpha_35: 1198992748
       tiles-tech-gold-blue-alpha_137: -1693719341
-      tiles-tech-gold-blue-alpha_143: 2075564873
       tiles-tech-gold-blue-alpha_0: 116011493
       tiles-tech-gold-blue-alpha_14: -1609416525
       tiles-tech-gold-blue-alpha_136: -1590005270
       tiles-tech-gold-blue-alpha_75: -662393438
       tiles-tech-gold-blue-alpha_4: 1039523707
+      tiles-tech-gold-blue-alpha_149: -1519506135
       tiles-tech-gold-blue-alpha_78: 980942327
       tiles-tech-gold-blue-alpha_94: 879961121
       tiles-tech-gold-blue-alpha_110: -1892637072
@@ -3278,14 +3299,15 @@ TextureImporter:
       tiles-tech-gold-blue-alpha_88: -509424161
       tiles-tech-gold-blue-alpha_124: -328947016
       tiles-tech-gold-blue-alpha_89: 216300901
-      tiles-tech-gold-blue-alpha_102: 1417405982
       tiles-tech-gold-blue-alpha_83: 485744774
+      tiles-tech-gold-blue-alpha_43: 511277566
       tiles-tech-gold-blue-alpha_70: 1222970120
       tiles-tech-gold-blue-alpha_121: -1428837795
-      tiles-tech-gold-blue-alpha_140: 1286991998
+      tiles-tech-gold-blue-alpha_102: 1417405982
       tiles-tech-gold-blue-alpha_73: 182958605
       tiles-tech-gold-blue-alpha_37: -2049496512
-      tiles-tech-gold-blue-alpha_43: 511277566
+      tiles-tech-gold-blue-alpha_140: 1286991998
+      tiles-tech-gold-blue-alpha_147: -202319762
       tiles-tech-gold-blue-alpha_104: 422553317
       tiles-tech-gold-blue-alpha_142: 2080892443
       tiles-tech-gold-blue-alpha_51: 1140955304
@@ -3297,7 +3319,6 @@ TextureImporter:
       tiles-tech-gold-blue-alpha_41: 2004398824
       tiles-tech-gold-blue-alpha_111: 1497299190
       tiles-tech-gold-blue-alpha_6: 1318414354
-      tiles-tech-gold-blue-alpha_147: -202319762
       tiles-tech-gold-blue-alpha_93: -2003976689
       tiles-tech-gold-blue-alpha_25: -733658594
       tiles-tech-gold-blue-alpha_115: 1042588383
@@ -3316,11 +3337,11 @@ TextureImporter:
       tiles-tech-gold-blue-alpha_81: -1508109395
       tiles-tech-gold-blue-alpha_29: 102691064
       tiles-tech-gold-blue-alpha_20: 1942870612
+      tiles-tech-gold-blue-alpha_120: 7083892
       tiles-tech-gold-blue-alpha_54: -706386227
-      tiles-tech-gold-blue-alpha_86: -1112429928
       tiles-tech-gold-blue-alpha_2: -1142792991
       tiles-tech-gold-blue-alpha_11: 1761199813
-      tiles-tech-gold-blue-alpha_120: 7083892
+      tiles-tech-gold-blue-alpha_86: -1112429928
       tiles-tech-gold-blue-alpha_13: 1048065376
       tiles-tech-gold-blue-alpha_40: -1887170704
       tiles-tech-gold-blue-alpha_107: 1260375820
@@ -3384,14 +3405,15 @@ TextureImporter:
       tiles-tech-gold-blue-alpha_27: 1364454333
       tiles-tech-gold-blue-alpha_91: 799093842
       tiles-tech-gold-blue-alpha_53: -1397291241
+      tiles-tech-gold-blue-alpha_146: 1299995125
       tiles-tech-gold-blue-alpha_64: 1137226699
+      tiles-tech-gold-blue-alpha_143: 2075564873
       tiles-tech-gold-blue-alpha_77: -995633287
       tiles-tech-gold-blue-alpha_59: 435157149
-      tiles-tech-gold-blue-alpha_132: 443542749
-      tiles-tech-gold-blue-alpha_21: -1680701152
       tiles-tech-gold-blue-alpha_61: 1229274185
-      tiles-tech-gold-blue-alpha_72: -1712642911
+      tiles-tech-gold-blue-alpha_21: -1680701152
       tiles-tech-gold-blue-alpha_117: -486105853
+      tiles-tech-gold-blue-alpha_72: -1712642911
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
