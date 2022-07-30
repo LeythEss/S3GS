@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,7 +43,7 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 1
+  spriteExtrude: 16
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
@@ -67,7 +67,7 @@ TextureImporter:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
+    resizeAlgorithm: 1
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -3264,7 +3264,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      tiles-tech-gold-blue-alpha_132: 443542749
+      tiles-tech-gold-blue-alpha_64: 1137226699
       tiles-tech-gold-blue-alpha_99: 41106948
       tiles-tech-gold-blue-alpha_18: 242558018
       tiles-tech-gold-blue-alpha_35: 1198992748
@@ -3298,26 +3298,26 @@ TextureImporter:
       tiles-tech-gold-blue-alpha_71: 500251011
       tiles-tech-gold-blue-alpha_88: -509424161
       tiles-tech-gold-blue-alpha_124: -328947016
-      tiles-tech-gold-blue-alpha_89: 216300901
-      tiles-tech-gold-blue-alpha_83: 485744774
-      tiles-tech-gold-blue-alpha_43: 511277566
-      tiles-tech-gold-blue-alpha_70: 1222970120
-      tiles-tech-gold-blue-alpha_121: -1428837795
       tiles-tech-gold-blue-alpha_102: 1417405982
+      tiles-tech-gold-blue-alpha_43: 511277566
+      tiles-tech-gold-blue-alpha_83: 485744774
+      tiles-tech-gold-blue-alpha_140: 1286991998
+      tiles-tech-gold-blue-alpha_121: -1428837795
+      tiles-tech-gold-blue-alpha_89: 216300901
       tiles-tech-gold-blue-alpha_73: 182958605
       tiles-tech-gold-blue-alpha_37: -2049496512
-      tiles-tech-gold-blue-alpha_140: 1286991998
+      tiles-tech-gold-blue-alpha_70: 1222970120
       tiles-tech-gold-blue-alpha_147: -202319762
       tiles-tech-gold-blue-alpha_104: 422553317
       tiles-tech-gold-blue-alpha_142: 2080892443
       tiles-tech-gold-blue-alpha_51: 1140955304
       tiles-tech-gold-blue-alpha_106: 582697604
       tiles-tech-gold-blue-alpha_42: 731001157
-      tiles-tech-gold-blue-alpha_58: -602846080
       tiles-tech-gold-blue-alpha_126: -432464062
-      tiles-tech-gold-blue-alpha_119: 357306159
+      tiles-tech-gold-blue-alpha_58: -602846080
       tiles-tech-gold-blue-alpha_41: 2004398824
       tiles-tech-gold-blue-alpha_111: 1497299190
+      tiles-tech-gold-blue-alpha_119: 357306159
       tiles-tech-gold-blue-alpha_6: 1318414354
       tiles-tech-gold-blue-alpha_93: -2003976689
       tiles-tech-gold-blue-alpha_25: -733658594
@@ -3405,10 +3405,10 @@ TextureImporter:
       tiles-tech-gold-blue-alpha_27: 1364454333
       tiles-tech-gold-blue-alpha_91: 799093842
       tiles-tech-gold-blue-alpha_53: -1397291241
-      tiles-tech-gold-blue-alpha_146: 1299995125
-      tiles-tech-gold-blue-alpha_64: 1137226699
-      tiles-tech-gold-blue-alpha_143: 2075564873
       tiles-tech-gold-blue-alpha_77: -995633287
+      tiles-tech-gold-blue-alpha_132: 443542749
+      tiles-tech-gold-blue-alpha_143: 2075564873
+      tiles-tech-gold-blue-alpha_146: 1299995125
       tiles-tech-gold-blue-alpha_59: 435157149
       tiles-tech-gold-blue-alpha_61: 1229274185
       tiles-tech-gold-blue-alpha_21: -1680701152

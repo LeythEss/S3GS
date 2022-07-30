@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -44,7 +44,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 32
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 30
@@ -68,7 +68,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 1
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
@@ -622,7 +622,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      char-sheet-alpha_23: 1023635622
+      char-sheet-alpha_12: -256799704
       char-sheet-alpha_5: -1691850352
       char-sheet-alpha_14: -1459642096
       char-sheet-alpha_2: -982805493
@@ -645,7 +645,7 @@ TextureImporter:
       char-sheet-alpha_18: 1043274544
       char-sheet-alpha_8: -1825601824
       char-sheet-alpha_15: 1723678923
-      char-sheet-alpha_12: -256799704
+      char-sheet-alpha_23: 1023635622
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
