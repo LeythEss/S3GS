@@ -109,7 +109,7 @@ TextureImporter:
         serializedVersion: 2
         x: 105
         y: 2194
-        width: 163
+        width: 25
         height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -130,7 +130,7 @@ TextureImporter:
         serializedVersion: 2
         x: 105
         y: 1642
-        width: 160
+        width: 19
         height: 38
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -151,8 +151,8 @@ TextureImporter:
         serializedVersion: 2
         x: 105
         y: 1918
-        width: 160
-        height: 36
+        width: 22
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,7 +172,7 @@ TextureImporter:
         serializedVersion: 2
         x: 103
         y: 1366
-        width: 162
+        width: 22
         height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -193,7 +193,7 @@ TextureImporter:
         serializedVersion: 2
         x: 99
         y: 1089
-        width: 166
+        width: 25
         height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -214,7 +214,7 @@ TextureImporter:
         serializedVersion: 2
         x: 101
         y: 814
-        width: 164
+        width: 24
         height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -235,7 +235,7 @@ TextureImporter:
         serializedVersion: 2
         x: 104
         y: 538
-        width: 160
+        width: 20
         height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -256,7 +256,7 @@ TextureImporter:
         serializedVersion: 2
         x: 105
         y: 261
-        width: 161
+        width: 23
         height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -607,6 +607,510 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: char-sheet-alpha_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2194
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c65a614ca0b7db4dae19205b7c4a844
+      internalID: -806665343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-sheet-alpha_25
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2194
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6ef4fe3f3a9e44a903cd6b3ad3fe45
+      internalID: 2040899756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-sheet-alpha_26
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2194
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29285e29de70b242bfed6762d345ca1
+      internalID: 1932993938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-sheet-alpha_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1918
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888b8674b30dd4c42b48557f8191e6a8
+      internalID: -1767981479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-sheet-alpha_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1918
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd659269a2a32a478b66040101f428c
+      internalID: -1591553638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-sheet-alpha_29
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1917
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff5e75f758908047a77fab4d33bd9fa
+      internalID: -568115406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-sheet-alpha_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1642
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e81fc538af70a44880a5af78ae8559b
+      internalID: 2024371484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-sheet-alpha_31
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1641
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011b832ec4d9cda498090af944110748
+      internalID: -195608347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-sheet-alpha_32
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1641
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7a26ed077d93b4e9d2113da82ad8fe
+      internalID: 998564608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-sheet-alpha_33
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1366
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b01bf8aae7c1c043bce6830e28fc5f4
+      internalID: 139571375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-sheet-alpha_34
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1366
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bba20ac098ba7448412f6795552e94
+      internalID: -221214347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-sheet-alpha_35
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1366
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3252710ebf10fa4ba75bf8d5d6f196a
+      internalID: 1405467298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-sheet-alpha_36
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1090
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a128d4dac94ab499aba7b4e53cddcf
+      internalID: 335120968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-sheet-alpha_37
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1090
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2dce921ba9ce64981915feda72c002
+      internalID: -150938308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-sheet-alpha_38
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1090
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc33329b7a1f294e9a87125db902bec
+      internalID: 486662712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-sheet-alpha_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 814
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e8ac5c407b74941bd79f7700a876b4
+      internalID: 1214041722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-sheet-alpha_40
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 813
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d686cc0d35535834794c2f564761c844
+      internalID: 1142427829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-sheet-alpha_41
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 814
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efa399ae304cb84a8a8cb8d2b79cc7c
+      internalID: -908601952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-sheet-alpha_42
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 537
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398b50ebe3dac4540aa0c4b2e92a4f4c
+      internalID: -522104561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-sheet-alpha_43
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 538
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b08332d65d24d4ea0481778f783b6c
+      internalID: 766841817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-sheet-alpha_44
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 538
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bd577de418cd54aa448a745b898726
+      internalID: 1028461953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-sheet-alpha_45
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 262
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471be68804f79d240ac55fef93409b63
+      internalID: -1138280611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-sheet-alpha_46
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 262
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43504bc03bd696b4181a88b0c10f7e71
+      internalID: -845985986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-sheet-alpha_47
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 262
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9a285e351e8594fb8b647e2cda4d17
+      internalID: -2140472788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline:
     - - {x: -108, y: 1060}
       - {x: -108, y: 1103}
@@ -623,27 +1127,51 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       char-sheet-alpha_12: -256799704
-      char-sheet-alpha_5: -1691850352
+      char-sheet-alpha_40: 1142427829
+      char-sheet-alpha_42: -522104561
       char-sheet-alpha_14: -1459642096
       char-sheet-alpha_2: -982805493
-      char-sheet-alpha_4: 1334075202
+      char-sheet-alpha_31: -195608347
       char-sheet-alpha_19: 1159512128
+      char-sheet-alpha_33: 139571375
+      char-sheet-alpha_24: -806665343
       char-sheet-alpha_11: -844798502
       char-sheet-alpha_21: 404339465
-      char-sheet-alpha_1: 116110731
-      char-sheet-alpha_6: -1289340713
       char-sheet-alpha_9: -1952756358
       char-sheet-alpha_13: -1249780041
       char-sheet-alpha_20: -727376706
-      char-sheet-alpha_22: 1959912551
-      char-sheet-alpha_3: 1935833570
+      char-sheet-alpha_47: -2140472788
       char-sheet-alpha_10: 1501237606
+      char-sheet-alpha_27: -1767981479
       char-sheet-alpha_0: 1629560175
-      char-sheet-alpha_7: -929064104
-      char-sheet-alpha_16: -1175255168
-      char-sheet-alpha_17: 1231083773
       char-sheet-alpha_18: 1043274544
       char-sheet-alpha_8: -1825601824
+      char-sheet-alpha_5: -1691850352
+      char-sheet-alpha_37: -150938308
+      char-sheet-alpha_38: 486662712
+      char-sheet-alpha_4: 1334075202
+      char-sheet-alpha_46: -845985986
+      char-sheet-alpha_30: 2024371484
+      char-sheet-alpha_44: 1028461953
+      char-sheet-alpha_41: -908601952
+      char-sheet-alpha_39: 1214041722
+      char-sheet-alpha_43: 766841817
+      char-sheet-alpha_34: -221214347
+      char-sheet-alpha_1: 116110731
+      char-sheet-alpha_6: -1289340713
+      char-sheet-alpha_25: 2040899756
+      char-sheet-alpha_29: -568115406
+      char-sheet-alpha_45: -1138280611
+      char-sheet-alpha_22: 1959912551
+      char-sheet-alpha_3: 1935833570
+      char-sheet-alpha_36: 335120968
+      char-sheet-alpha_32: 998564608
+      char-sheet-alpha_26: 1932993938
+      char-sheet-alpha_7: -929064104
+      char-sheet-alpha_16: -1175255168
+      char-sheet-alpha_28: -1591553638
+      char-sheet-alpha_17: 1231083773
+      char-sheet-alpha_35: 1405467298
       char-sheet-alpha_15: 1723678923
       char-sheet-alpha_23: 1023635622
   spritePackingTag: 

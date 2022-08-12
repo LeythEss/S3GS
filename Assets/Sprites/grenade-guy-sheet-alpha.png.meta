@@ -109,10 +109,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1
         y: 80
-        width: 287
+        width: 33
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -133,7 +133,7 @@ TextureImporter:
         width: 27
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -151,10 +151,10 @@ TextureImporter:
         serializedVersion: 2
         x: 4
         y: 48
-        width: 171
+        width: 27
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -172,7 +172,322 @@ TextureImporter:
         serializedVersion: 2
         x: 17
         y: 32
-        width: 63
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce23ebef480dd642b39d5b2ec775ca7
+      internalID: -26060535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenade-guy-sheet-alpha_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 80
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cef0d4eb9071f43b057c7dd96b7322
+      internalID: -1366603286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenade-guy-sheet-alpha_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77934be1a84c414a9de3edf8c46ee4d
+      internalID: -790721116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenade-guy-sheet-alpha_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 80
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b48586f1c8e41f40af72ee8dc3cc194
+      internalID: -1671376343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenade-guy-sheet-alpha_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 80
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab6b6b3767778e48a61d942bfdfd5ec
+      internalID: -310788607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenade-guy-sheet-alpha_8
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 80
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de72b1cd5cfbd8e469634b8a2ce825ef
+      internalID: 967683072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenade-guy-sheet-alpha_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 80
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5594ba73d54225c4aadd519bd4b180b7
+      internalID: 1337149811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenade-guy-sheet-alpha_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 80
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bcb5d22919e6e44aad414013200d86
+      internalID: 1910891715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenade-guy-sheet-alpha_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0970de84ae785c439aee714832674f0
+      internalID: 98616496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenade-guy-sheet-alpha_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 48
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e310a5f07fa307449807de74cfd9f96
+      internalID: 763345304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenade-guy-sheet-alpha_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5b06125bea5054d914bc91f1328a03
+      internalID: -1958931061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenade-guy-sheet-alpha_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 48
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb356ac1b1a7d9499de65ebb2b3b4ab
+      internalID: 1438766259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenade-guy-sheet-alpha_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 32
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7aad24fddfe60418a11bd91c5ec126
+      internalID: -153280456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenade-guy-sheet-alpha_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 32
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bfde2ee0f6cda46a8beee19626baa5
+      internalID: 154358295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenade-guy-sheet-alpha_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 32
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef5db6ecff389447ab118e977bd5e3a
+      internalID: -496493627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenade-guy-sheet-alpha_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 14
         height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -181,8 +496,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ce23ebef480dd642b39d5b2ec775ca7
-      internalID: -26060535
+      spriteID: 40ee1542352813c4d842fce52f1a3e7d
+      internalID: -1738489524
       vertices: []
       indices: 
       edges: []
@@ -198,10 +513,25 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      grenade-guy-sheet-alpha_4: -1366603286
+      grenade-guy-sheet-alpha_5: -790721116
+      grenade-guy-sheet-alpha_18: -1738489524
+      grenade-guy-sheet-alpha_13: -1958931061
+      grenade-guy-sheet-alpha_6: -1671376343
       grenade-guy-sheet-alpha_0: -1170528998
       grenade-guy-sheet-alpha_2: 1551663361
+      grenade-guy-sheet-alpha_15: -153280456
+      grenade-guy-sheet-alpha_14: 1438766259
+      grenade-guy-sheet-alpha_10: 1910891715
+      grenade-guy-sheet-alpha_8: 967683072
+      grenade-guy-sheet-alpha_7: -310788607
+      grenade-guy-sheet-alpha_9: 1337149811
+      grenade-guy-sheet-alpha_12: 763345304
       grenade-guy-sheet-alpha_3: -26060535
+      grenade-guy-sheet-alpha_16: 154358295
       grenade-guy-sheet-alpha_1: -76476114
+      grenade-guy-sheet-alpha_17: -496493627
+      grenade-guy-sheet-alpha_11: 98616496
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

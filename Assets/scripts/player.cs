@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class player : MonoBehaviour
 {
-    public float smooth;
     public float speed;
     public float jumpForce;
     Rigidbody2D rb2d;
@@ -14,11 +13,15 @@ public class player : MonoBehaviour
     int numberOfJump = 1;
     public LayerMask groundLayer;
     float x;
-    bool facingRight = true;
+    public bool facingRight = true;
+    
+
+
     // Start is called before the first frame update
     void Start()
     {
         rb2d = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
 
     }
 
@@ -28,12 +31,14 @@ public class player : MonoBehaviour
         x = Input.GetAxisRaw("Horizontal");
 
         Vector2 targetVelocity = new Vector2(x * speed, rb2d.velocity.y);
-        rb2d.velocity = Vector2.SmoothDamp(rb2d.velocity, targetVelocity, ref targetVelocity, Time.deltaTime * smooth);
+        rb2d.velocity = Vector2.SmoothDamp(rb2d.velocity, targetVelocity, ref targetVelocity, Time.deltaTime);
 
       
     }
+   
     private void Update()
     {
+        
         if (Input.GetKeyDown(KeyCode.Space) && (grounded || numberOfJump > 1))
         {
             rb2d.AddForce(new Vector2(0f, jumpForce));
@@ -56,6 +61,15 @@ public class player : MonoBehaviour
             // ... flip the player.
             Flip();
         }
+        if(x !=0)
+            anim.SetBool("isWalking", true);
+        if(x == 0)
+            anim.SetBool("isWalking", false);
+        look();
+       
+        
+        
+           
     }
     void Flip()
     {
@@ -68,6 +82,36 @@ public class player : MonoBehaviour
         scale.x *= -1;
 
         transform.localScale = scale;
+    }
+
+    void look()
+    {
+        
+        if (Input.GetKeyDown(KeyCode.UpArrow))
+        {
+            anim.SetBool("lookUp", true);
+            anim.SetBool("lookDown", false);
+            anim.SetBool("lookFront", false);
+        }
+        if (Input.GetKeyDown(KeyCode.DownArrow))
+        {
+            anim.SetBool("lookDown", true);
+            anim.SetBool("lookUp", false);
+            anim.SetBool("lookFront", false);
+        }
+
+        if ((Input.GetKeyDown(KeyCode.RightArrow) && facingRight == true) || (Input.GetKeyDown(KeyCode.LeftArrow) && facingRight == false))
+        {
+            anim.SetBool("lookFront", true);
+            anim.SetBool("lookUp", false);
+            anim.SetBool("lookDown", false);
+        }
+
+        
+    }
+    bool faceright()
+    {
+        return facingRight;
     }
 
 }

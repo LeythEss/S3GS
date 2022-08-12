@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -109,7 +109,7 @@ TextureImporter:
         serializedVersion: 2
         x: 5
         y: 320
-        width: 70
+        width: 32
         height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -130,10 +130,10 @@ TextureImporter:
         serializedVersion: 2
         x: 76
         y: 320
-        width: 112
+        width: 37
         height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -151,10 +151,10 @@ TextureImporter:
         serializedVersion: 2
         x: 3
         y: 360
-        width: 175
-        height: 37
+        width: 26
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -175,7 +175,7 @@ TextureImporter:
         width: 29
         height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -183,6 +183,279 @@ TextureImporter:
       bones: []
       spriteID: f8dcdaceaa542064d9352bda68d043e2
       internalID: -1264497618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-16col-sheet-alpha_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 320
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6acee5c6617ec4ea31b22d5ee50f90
+      internalID: 418035069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-16col-sheet-alpha_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 320
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29973fe6d008394e9f21dde1ec843c8
+      internalID: 1972744787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-16col-sheet-alpha_6
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 320
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec7f233078c2a74da6042aefbee175e
+      internalID: -1766478109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-16col-sheet-alpha_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 360
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65905177ff8a5e4fb4fcc10325ffae2
+      internalID: -1901273773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-16col-sheet-alpha_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 360
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb28260e04596d145bd470a3cca3cba0
+      internalID: -616768510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-16col-sheet-alpha_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 360
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de19386e47e3d104e942bbff9c643f19
+      internalID: -1156418478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-16col-sheet-alpha_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 360
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d49434e13b28e4b9085c7a7b97c839
+      internalID: -1206349019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-16col-sheet-alpha_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 360
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769364c517e25fa449b97575f6620f71
+      internalID: 186265009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-16col-sheet-alpha_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6645dbc8410aeeb44a30f37e7ac6310d
+      internalID: 684333561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-16col-sheet-alpha_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 310
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c897870ed52617e4aba273549696278d
+      internalID: 846267362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-16col-sheet-alpha_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 423
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c17ab27325b546479c449fdb4fe9282
+      internalID: 898065287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-16col-sheet-alpha_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 424
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50720f18afa01c46803123dec43708b
+      internalID: -1228137305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-16col-sheet-alpha_16
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 423
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7886e026bb8e97e4ea84889533d04661
+      internalID: 501039685
       vertices: []
       indices: 
       edges: []
@@ -198,10 +471,23 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      enemies-16col-sheet-alpha_5: 1972744787
+      enemies-16col-sheet-alpha_15: -1228137305
+      enemies-16col-sheet-alpha_12: 684333561
       enemies-16col-sheet-alpha_0: -679127615
+      enemies-16col-sheet-alpha_10: -1206349019
+      enemies-16col-sheet-alpha_4: 418035069
+      enemies-16col-sheet-alpha_8: -616768510
       enemies-16col-sheet-alpha_3: -1264497618
+      enemies-16col-sheet-alpha_16: 501039685
+      enemies-16col-sheet-alpha_9: -1156418478
       enemies-16col-sheet-alpha_2: 225110582
+      enemies-16col-sheet-alpha_14: 898065287
+      enemies-16col-sheet-alpha_13: 846267362
+      enemies-16col-sheet-alpha_7: -1901273773
       enemies-16col-sheet-alpha_1: 1024427890
+      enemies-16col-sheet-alpha_6: -1766478109
+      enemies-16col-sheet-alpha_11: 186265009
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

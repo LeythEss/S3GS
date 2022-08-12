@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - PlayerLazer
+  - SpidCanGren
+  - FireSkull
+  - enemy
+  - Upgrade1
+  - Upgrade2
+  - Upgrade3
+  - button
+  - lazer
   layers:
   - Default
   - TransparentFX
@@ -12,9 +21,9 @@ TagManager:
   - Water
   - UI
   - ground
-  - 
-  - 
-  - 
+  - wall
+  - player
+  - enemy
   - 
   - 
   - 

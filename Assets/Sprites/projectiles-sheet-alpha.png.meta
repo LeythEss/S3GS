@@ -112,7 +112,7 @@ TextureImporter:
         width: 24
         height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -133,7 +133,7 @@ TextureImporter:
         width: 12
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -154,7 +154,7 @@ TextureImporter:
         width: 21
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -175,7 +175,7 @@ TextureImporter:
         width: 23
         height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -196,7 +196,7 @@ TextureImporter:
         width: 24
         height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -217,7 +217,7 @@ TextureImporter:
         width: 22
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -238,7 +238,7 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -259,7 +259,7 @@ TextureImporter:
         width: 25
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -280,7 +280,7 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -296,12 +296,12 @@ TextureImporter:
       name: projectiles-sheet-alpha_9
       rect:
         serializedVersion: 2
-        x: 0
+        x: 2
         y: 83
-        width: 138
+        width: 24
         height: 26
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -319,7 +319,28 @@ TextureImporter:
         serializedVersion: 2
         x: 2
         y: 130
-        width: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2f15a6716519f4ebe82b9afe9093cd
+      internalID: 1308374020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectiles-sheet-alpha_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 84
+        width: 24
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -328,8 +349,134 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c2f15a6716519f4ebe82b9afe9093cd
-      internalID: 1308374020
+      spriteID: 5a4cea181b225f74f8e51bc112e89d77
+      internalID: 1041113010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectiles-sheet-alpha_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 84
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901e77d842f9d5b4d90805581a3b70e0
+      internalID: -1527262175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectiles-sheet-alpha_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 84
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ffdc1e585c6ab4ca33c1a4859d5886
+      internalID: -1148225582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectiles-sheet-alpha_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 84
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc7429a95ff8f243809f3ad621a440a
+      internalID: -1930266727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectiles-sheet-alpha_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 130
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7a72a971ee998479c5671b47836d53
+      internalID: -1052460452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectiles-sheet-alpha_16
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 130
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebcab50b8f279944ad06a689b5e1fa7
+      internalID: -1179959434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectiles-sheet-alpha_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 130
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5423fd3d32f316b429af3026b18a6fb0
+      internalID: 1366094355
       vertices: []
       indices: 
       edges: []
@@ -346,12 +493,19 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       projectiles-sheet-alpha_5: 113461394
+      projectiles-sheet-alpha_11: 1041113010
       projectiles-sheet-alpha_6: -176422784
+      projectiles-sheet-alpha_15: -1052460452
       projectiles-sheet-alpha_2: -1517872484
       projectiles-sheet-alpha_3: 588177099
+      projectiles-sheet-alpha_12: -1527262175
       projectiles-sheet-alpha_0: -211126029
+      projectiles-sheet-alpha_13: -1148225582
+      projectiles-sheet-alpha_17: 1366094355
       projectiles-sheet-alpha_10: 1308374020
+      projectiles-sheet-alpha_14: -1930266727
       projectiles-sheet-alpha_7: -1728868368
+      projectiles-sheet-alpha_16: -1179959434
       projectiles-sheet-alpha_9: -509817597
       projectiles-sheet-alpha_1: -1526471115
       projectiles-sheet-alpha_4: -1805414932
